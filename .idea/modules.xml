@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LegendaryPokemon.iml" filepath="$PROJECT_DIR$/.idea/modules/LegendaryPokemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LegendaryPokemon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LegendaryPokemon_main.iml" group="LegendaryPokemon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LegendaryPokemon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LegendaryPokemon_test.iml" group="LegendaryPokemon" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+644,Zekrom,Dragon,Electric,680,100,150,120,120,100,90,5,TRUE
+645,LandorusIncarnate Forme,Ground,Flying,600,89,125,90,115,80,101,4,TRUE
+645,LandorusTherian Forme,Ground,Flying,600,89,145,90,105,80,91,3,TRUE
+646,Kyurem,Dragon,Ice,660,125,130,90,130,90,95,2,TRUE
+646,KyuremBlack Kyurem,Dragon,Ice,700,125,170,100,120,90,95,1,TRUE
+646,KyuremWhite Kyurem,Dragon,Ice,700,125,120,90,170,100,95,5,TRUE
+716,Xerneas,Fairy,,680,126,131,95,131,98,99,4,TRUE
+717,Yveltal,Dark,Flying,680,126,131,95,131,98,99,3,TRUE
+718,Zygarde50% Forme,Dragon,Ground,600,108,100,121,81,95,95,2,TRUE
+719,Diancie,Rock,Fairy,600,50,100,150,100,150,50,1,TRUE
+719,DiancieMega Diancie,Rock,Fairy,700,50,160,110,160,110,110,5,TRUE
+720,HoopaHoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,4,TRUE
+720,HoopaHoopa Unbound,Psychic,Dark,680,80,160,60,170,130,80,3,TRUE
+721,Volcanion,Fire,Water,600,80,110,120,130,90,70,2,TRUE
+571,Zoroark,Dark,,510,60,105,60,120,60,105,1,FALSE
+571,Minccino,Normal,,300,55,50,40,40,40,75,5,FALSE
+571,Cinccino,Normal,,470,75,95,60,65,60,115,4,FALSE
+571,Gothita,Psychic,,290,45,30,50,55,65,45,3,FALSE
+571,Gothorita,Psychic,,390,60,45,70,75,85,55,2,FALSE
+571,Gothitelle,Psychic,,490,70,55,95,95,110,65,1,FALSE
+571,Solosis,Psychic,,290,45,30,40,105,50,20,5,FALSE
+571,Duosion,Psychic,,370,65,40,50,125,60,30,4,FALSE
+571,Reuniclus,Psychic,,490,110,65,75,125,85,30,3,FALSE
+571,Ducklett,Water,Flying,305,62,44,50,44,50,55,2,FALSE
+571,Swanna,Water,Flying,473,75,87,63,87,63,98,1,FALSE
+571,Vanillite,Ice,,305,36,50,50,65,60,44,5,FALSE
+571,Vanillish,Ice,,395,51,65,65,80,75,59,4,FALSE
+584,Vanilluxe,Ice,,535,71,95,85,110,95,79,3,FALSE
